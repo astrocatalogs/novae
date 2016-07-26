@@ -3,13 +3,13 @@ from glob import glob
 
 from astrocats.catalog.utils import is_number
 
-with open('astrocats/supernovae/input/rep-folders.txt', 'r') as f:
+with open('astrocats/novae/input/rep-folders.txt', 'r') as f:
     repofolders = f.read().splitlines()
 
 repoyears = [int(repofolders[x][-4:]) for x in range(len(repofolders) - 1)]
 repoyears[0] -= 1
 
-outdir = 'astrocats/supernovae/output/'
+outdir = 'astrocats/novae/output/'
 
 
 def repo_file_list(normal=True, bones=True):

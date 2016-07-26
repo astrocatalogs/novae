@@ -41,9 +41,9 @@ from astrocats.catalog.utils import (bandaliasf, bandcodes, bandcolorf,
                                      bandwavelengths, get_sig_digits,
                                      is_number, pretty_num, radiocolorf,
                                      round_sig, tprint, tq, xraycolorf)
-from astrocats.supernovae.scripts.events import (get_event_filename,
+from astrocats.novae.scripts.events import (get_event_filename,
                                                  get_event_text)
-from astrocats.supernovae.scripts.repos import get_rep_folder, repo_file_list
+from astrocats.novae.scripts.repos import get_rep_folder, repo_file_list
 from cdecimal import Decimal
 
 parser = argparse.ArgumentParser(
@@ -71,7 +71,7 @@ args = parser.parse_args()
 infl = inflect.engine()
 infl.defnoun("spectrum", "spectra")
 
-outdir = "astrocats/supernovae/output/"
+outdir = "astrocats/novae/output/"
 cachedir = "cache/"
 jsondir = "json/"
 htmldir = "html/"
@@ -82,7 +82,7 @@ radiosigma = 3.0
 
 googlepingurl = "http://www.google.com/webmasters/tools/ping?sitemap=https%3A%2F%2Fsne.space%2Fsitemap.xml"
 
-linkdir = "https://sne.space/sne/"
+linkdir = "https://onc.space/onc/"
 
 testsuffix = '.test' if args.test else ''
 
@@ -240,7 +240,7 @@ newfiletemplate = (
 }'''
 )
 
-with open('astrocats/supernovae/html/sitemap-template.xml', 'r') as f:
+with open('astrocats/novae/html/sitemap-template.xml', 'r') as f:
     sitemaptemplate = f.read()
 
 if len(columnkey) != len(header):
@@ -374,7 +374,7 @@ for fcnt, eventfile in enumerate(tq(sorted(files, key=lambda s: s.lower()))):
     tprint(eventfile + ' [' + checksum + ']')
 
     repfolder = get_rep_folder(catalog[entry])
-    if os.path.isfile("astrocats/supernovae/input/sne-internal/" + fileeventname + ".json"):
+    if os.path.isfile("astrocats/novae/input/cne-external/" + fileeventname + ".json"):
         catalog[entry]['download'] = 'e'
     else:
         catalog[entry]['download'] = ''
