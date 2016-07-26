@@ -17,4 +17,5 @@ def get_nova_name(string):
 		return None
 	
 	if value.endswith('Crb'): value = value[:-1] + 'B'
+	if value.endswith('Cra'): value = value[:-1] + 'A'
 	return value
