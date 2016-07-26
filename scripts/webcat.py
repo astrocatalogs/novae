@@ -338,7 +338,6 @@ else:
     hostimgdict = {}
 
 files = repo_file_list(normal=(not args.boneyard), bones=args.boneyard)
-#print(files)
 
 if os.path.isfile(outdir + cachedir + 'md5s.json'):
     with open(outdir + cachedir + 'md5s.json', 'r') as f:
@@ -350,7 +349,6 @@ else:
 for fcnt, eventfile in enumerate(tq(sorted(files, key=lambda s: s.lower()))):
     fileeventname = os.path.splitext(os.path.basename(eventfile))[
         0].replace('.json', '')
-    print(fileeventname)
     if args.eventlist and fileeventname not in args.eventlist:
         continue
 
@@ -364,8 +362,6 @@ for fcnt, eventfile in enumerate(tq(sorted(files, key=lambda s: s.lower()))):
         md5dict[eventfile] = checksum
 
     filetext = get_event_text(eventfile)
-#    print(eventfile)
-#    print(filetext)
 
     catalog.update(json.loads(filetext, object_pairs_hook=OrderedDict))
     entry = next(reversed(catalog))
@@ -378,7 +374,6 @@ for fcnt, eventfile in enumerate(tq(sorted(files, key=lambda s: s.lower()))):
     tprint(eventfile + ' [' + checksum + ']')
 
     repfolder = get_rep_folder(catalog[entry])
-    print(repfolder)
     if os.path.isfile("astrocats/novae/input/cne-external/" + fileeventname + ".json"):
         catalog[entry]['download'] = 'e'
     else:
