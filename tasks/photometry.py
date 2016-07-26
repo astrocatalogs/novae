@@ -82,13 +82,14 @@ def do_photometry(catalog):
 			
 			if 'telescope' not in data_dict: data_dict['telescope'] = raw_dict['TELESCOPE']
 			if 'observer' not in data_dict: data_dict['observer'] = raw_dict['OBSERVER']
-			data_dict['u_time'] = 'JD'
+			data_dict['u_time'] = 'MJD'
 			key_list = list(data_dict.keys())
 			for key in key_list:
 				if data_dict[key] is None:
 					del data_dict[key]
 			
-			
+			if data_dict['time'] >= 2400000:
+				data_dict['time'] -= 2400000
 			
 			data_dict['source'] = source
 			
