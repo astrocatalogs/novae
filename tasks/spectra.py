@@ -91,7 +91,7 @@ def do_spectra(catalog):
 					
 					if flux_err is not None: flux_err_arr.append(flux_err)
 					flux_arr.append(flux)
-					wavelength_arr.append(flux)
+					wavelength_arr.append(wavelength)
 		
 				data_dict = {'wavelengths': wavelength_arr, 'fluxes': flux_arr, 'source': source, 'time': metadata_raw_dict['DATE'], 'observer': metadata_raw_dict['OBSERVER'], 'telescope': metadata_raw_dict['TELESCOPE'], 'instrument': metadata_raw_dict['INSTRUMENT'], 'u_wavelengths': 'Angstrom', 'u_time': 'MJD', 'u_fluxes': 'erg/s/cm^2'}
 
