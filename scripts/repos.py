@@ -19,7 +19,6 @@ def repo_file_list(normal=True, bones=True):
             continue
         if not bones and 'boneyard' in rep:
             continue
-        print(rep)
         files += glob(outdir + rep + "/*.json") + \
             glob(outdir + rep + "/*.json.gz")
     print(files)
