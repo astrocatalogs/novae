@@ -82,7 +82,7 @@ radiosigma = 3.0
 
 googlepingurl = "http://www.google.com/webmasters/tools/ping?sitemap=https%3A%2F%2Fsne.space%2Fsitemap.xml"
 
-linkdir = "https://opennova.space/opennova/"
+linkdir = "https://opennova.space/cne/"
 
 testsuffix = '.test' if args.test else ''
 
