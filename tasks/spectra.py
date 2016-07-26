@@ -6,6 +6,7 @@ from ..utils import read_spectra_ticket, read_spectra_metadata, get_nova_name, c
 import re
 import csv
 from astropy.time import Time
+from cdecimal import Decimal
 
 def do_spectra(catalog):
 	"""		
@@ -97,8 +98,8 @@ def do_spectra(catalog):
 				if not flux_err_arr is None and len(flux_err_arr) != len(wavelength_arr):
 					data_dict['errors'] = flux_err_arr
 
-				if data_dict['time'] >= 2400000:
-					data_dict['time'] -= 2400000
+				if float(data_dict['time']) >= 2400000:
+					data_dict['time'] = (Decimal(data_dict['time']) - 2400000)
 
 				key_list = list(data_dict.keys())
 				for key in key_list:

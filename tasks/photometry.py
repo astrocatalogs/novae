@@ -6,6 +6,7 @@ from ..utils import read_photometry_ticket, get_nova_name, convert_date_UTC
 import re
 import csv
 from astropy.time import Time
+from cdecimal import Decimal
 
 
 def do_photometry(catalog):
@@ -88,8 +89,8 @@ def do_photometry(catalog):
 				if data_dict[key] is None:
 					del data_dict[key]
 			
-			if data_dict['time'] >= 2400000:
-				data_dict['time'] -= 2400000
+			if float(data_dict['time']) >= 2400000:
+				data_dict['time'] = str(Decimal(data_dict['time']) - 2400000)
 			
 			data_dict['source'] = source
 			
