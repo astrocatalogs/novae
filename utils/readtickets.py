@@ -6,12 +6,12 @@ def read_photometry_ticket(contents):
 	""" Reads photometry ticket
 		Returns tuple of dictionaries (value_dict, column_dict)
 	"""	
-
+	
 	value_dict, column_dict = {}, {}
 	ticket_fields = ["OBJECT NAME: ", "TIME UNITS: ", "FLUX UNITS: ",  "FLUX ERROR UNITS: ", "FILTER SYSTEM: ", "MAGNITUDE SYSTEM: ", "WAVELENGTH REGIME: ", "TIME SYSTEM: ", "ASSUMED DATE OF OUTBURST: ", "TELESCOPE: ", "OBSERVER: ", "REFERENCE: ", "BIBCODE: ", "DATA FILENAME: ", "TIME COLUMN NUMBER: ", "FLUX COLUMN NUMBER: ", "FLUX ERROR COLUMN NUMBER: ", "FILTER/FREQUENCY/ENERGY RANGE COLUMN NUMBER: ", "UPPER LIMIT FLAG COLUMN NUMBER: ", "TELESCOPE COLUMN NUMBER: ", "OBSERVER COLUMN NUMBER: ", "FILTER SYSTEM COLUMN NUMBER: ", "TICKET STATUS: "]
-
+	
 	lines = contents.split("\n")
-
+	
 	j = 0
 	for i in range(len(lines)):
 		name_match = re.match(ticket_fields[j], lines[i])
@@ -26,7 +26,11 @@ def read_photometry_ticket(contents):
 				if value.upper() == 'NA' or value == '': value_dict[key] = None
 				else: value_dict[key] = value
 		j+=1
+		if j == len(ticket_fields): break
+		
+
 	if len(value_dict) + len(column_dict) != len(ticket_fields):
+		
 		raise AttributeError('Not a valid ticket.')
 	
 	return (value_dict, column_dict)
@@ -62,6 +66,7 @@ def read_spectra_ticket(contents):
 			else:
 				value_dict[key] = value
 		j+=1
+		if j == len(ticket_fields): break
 
 	if len(value_dict) + len(column_dict) != len(ticket_fields) + 1:
 		raise AttributeError('Not a valid ticket.')
