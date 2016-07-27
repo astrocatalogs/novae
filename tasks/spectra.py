@@ -99,7 +99,7 @@ def do_spectra(catalog):
 
 				if float(data_dict['time']) >= 2400000:
 					str(get_dec_digits(data_dict['time']))
-					data_dict['time'] == ("{:.%sf}" %(str(get_dec_digits(data_dict['time'])))).format(float(data_dict['time'] - 2400000))
+					data_dict['time'] == ("{:.%sf}" %(str(get_dec_digits(data_dict['time'])))).format(float(data_dict['time']) - 2400000)
 
 				key_list = list(data_dict.keys())
 				for key in key_list:
