@@ -7,7 +7,7 @@
         "function": "do_photometry",
         "repo": "input/cne-external",
         "priority": 1
-},
+	},
     "spectra": {
         "nice_name": "%spectral data",
         "active": true,
@@ -16,7 +16,16 @@
         "function": "do_spectra",
         "repo": "input/cne-external",
         "priority": 2
-},
+	},
+    "simbad": {
+        "nice_name": "%pre SIMBAD",
+        "active": true,
+        "update": false,
+        "module": "novae.tasks.simbad",
+        "function": "do_simbad",
+        "groups": ["meta"],
+        "priority": 3
+    },
     "merge_duplicates": {
         "nice_name": "Merging duplicates",
         "active": false,
@@ -28,7 +37,7 @@
     },
     "cleanup": {
         "nice_name": "Cleaning up entries",
-        "active": false,
+        "active": true,
         "update": false,
         "module": "supernovae.tasks.cleanup",
         "function": "do_cleanup",

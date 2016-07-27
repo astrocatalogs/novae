@@ -5,7 +5,7 @@ import re
 from astroquery.simbad import Simbad
 
 from astrocats.catalog.utils import is_number, pbar, single_spaces, uniq_cdl
-from ..supernova import SUPERNOVA
+from ..nova import NOVA
 from ..utils import name_clean
 
 
@@ -29,7 +29,7 @@ def do_simbad(catalog):
     for mirror in simbadmirrors:
         customSimbad.SIMBAD_URL = mirror
         try:
-            table = customSimbad.query_criteria('maintype=SN | maintype="SN?"')
+            table = customSimbad.query_criteria('maintype=No* | maintype="No?"')
         except:
             continue
         else:
@@ -44,7 +44,7 @@ def do_simbad(catalog):
                          str(brow[x])) for x in brow.colnames}
         # Skip items with no bibliographic info aside from SIMBAD, too
         # error-prone
-        if row['OTYPE'] == 'Candidate_SN*' and not row['SP_TYPE']:
+        if row['OTYPE'] == 'Candidate_No*' and not row['SP_TYPE']:
             continue
         if (not row['COO_BIBCODE'] and not row['SP_BIBCODE'] and
                 not row['SP_BIBCODE_2']):
@@ -72,15 +72,15 @@ def do_simbad(catalog):
             if is_number(ali):
                 continue
             ali = name_clean(ali)
-            catalog.entries[name].add_quantity(SUPERNOVA.ALIAS,
+            catalog.entries[name].add_quantity(NOVA.ALIAS,
                                                ali, source)
         if row['COO_BIBCODE'] and row['COO_BIBCODE'] not in simbadbadcoordbib:
             csources = ','.join(
                 [source, catalog.entries[name].add_source(
                     bibcode=row['COO_BIBCODE'])])
-            catalog.entries[name].add_quantity(SUPERNOVA.RA,
+            catalog.entries[name].add_quantity(NOVA.RA,
                                                row['RA'], csources)
-            catalog.entries[name].add_quantity(SUPERNOVA.DEC,
+            catalog.entries[name].add_quantity(NOVA.DEC,
                                                row['DEC'], csources)
         if row['SP_BIBCODE']:
             ssources = uniq_cdl([source,
@@ -90,7 +90,7 @@ def do_simbad(catalog):
                                   .add_source(bibcode=row['SP_BIBCODE_2'])] if
                                  row['SP_BIBCODE_2'] else []))
             catalog.entries[name].add_quantity(
-                SUPERNOVA.CLAIMED_TYPE,
+                NOVA.CLAIMED_TYPE,
                 (row['SP_TYPE']
                  .replace('SN.', '')
                  .replace('SN', '')
