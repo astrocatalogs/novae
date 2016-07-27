@@ -17,14 +17,24 @@
         "repo": "input/cne-external",
         "priority": 2
 	},
+	"simbadnova":{
+		"nice_name": "%SIMBAD",
+		"active": true,
+		"update": false,
+		"module": "novae.tasks.simbadnovae",
+		"function": "do_simbad_novae",
+		"groups": ["meta"],
+		"priority": 3
+		
+	},
     "simbad": {
         "nice_name": "%pre SIMBAD",
-        "active": true,
+        "active": false,
         "update": false,
         "module": "novae.tasks.simbad",
         "function": "do_simbad",
         "groups": ["meta"],
-        "priority": 3
+        "priority": -50
     },
     "merge_duplicates": {
         "nice_name": "Merging duplicates",
