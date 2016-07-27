@@ -3,29 +3,26 @@
 Donated datasets:
 * None to add at this time.
 
-Multiple SN datasets on VizieR:
+Multiple CNe datasets on VizieR:
 * X-ray data from Schwarz 2012 (2012yCat..21970031S)
 
-Single SN dataset on VizieR:
+Single CNe dataset on VizieR:
 * None at this time.
 
-Other multiple SN datasets:
+Other multiple CNe datasets:
 * Chomiuk radio data
 
-Other single SN datasets:
+Other single CNe datasets:
 * None at this time
 
 Spectra to recover that were donated to SuSpect (bad wavelength solutions, etc):
 * None at this time
 
-SNR catalogs:
-* None at this time.
-
 Online catalogs:
 * No known missing online catalogs at this time.
 
 ####Data that likely exists but no known source
-* Any SNe with a typing but no spectrum likely has a spectrum.
+* Any CNe with a typing but no spectrum likely has a spectrum.
 
 ####Known errors that need to be corrected:
 * No known errors at this time.
