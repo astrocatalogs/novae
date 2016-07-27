@@ -2,7 +2,7 @@ from ..nova import NOVA
 from astrocats.catalog.utils import pbar
 import os
 import os.path
-from ..utils import read_spectra_ticket, read_spectra_metadata, get_nova_name, convert_date_UTC
+from ..utils import read_spectra_ticket, read_spectra_metadata, get_nova_name, convert_date_UTC, get_dec_digits
 import re
 import csv
 from astropy.time import Time
@@ -90,15 +90,16 @@ def do_spectra(catalog):
 					
 					if flux_err is not None: flux_err_arr.append(flux_err)
 					flux_arr.append(flux)
-					wavelength_arr.append(flux)
+					wavelength_arr.append(wavelength)
 		
 				data_dict = {'wavelengths': wavelength_arr, 'fluxes': flux_arr, 'source': source, 'time': metadata_raw_dict['DATE'], 'observer': metadata_raw_dict['OBSERVER'], 'telescope': metadata_raw_dict['TELESCOPE'], 'instrument': metadata_raw_dict['INSTRUMENT'], 'u_wavelengths': 'Angstrom', 'u_time': 'MJD', 'u_fluxes': 'erg/s/cm^2'}
 
 				if not flux_err_arr is None and len(flux_err_arr) != len(wavelength_arr):
 					data_dict['errors'] = flux_err_arr
 
-				if data_dict['time'] >= 2400000:
-					data_dict['time'] -= 2400000
+				if float(data_dict['time']) >= 2400000:
+					str(get_dec_digits(data_dict['time']))
+					data_dict['time'] == ("{:.%sf}" %(str(get_dec_digits(data_dict['time'])))).format(float(data_dict['time'] - 2400000))
 
 				key_list = list(data_dict.keys())
 				for key in key_list:
@@ -107,7 +108,7 @@ def do_spectra(catalog):
 
 				
 				catalog.entries[name].add_spectrum(**data_dict)
-				
+			catalog.journal_entries()	
 
 	return
 

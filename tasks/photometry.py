@@ -2,7 +2,7 @@ from ..nova import NOVA
 from astrocats.catalog.utils import pbar
 import os
 import os.path
-from ..utils import read_photometry_ticket, get_nova_name, convert_date_UTC
+from ..utils import read_photometry_ticket, get_nova_name, convert_date_UTC, get_dec_digits
 import re
 import csv
 from astropy.time import Time
@@ -88,8 +88,10 @@ def do_photometry(catalog):
 				if data_dict[key] is None:
 					del data_dict[key]
 			
-			if data_dict['time'] >= 2400000:
-				data_dict['time'] -= 2400000
+			
+			if float(data_dict['time']) >= 2400000:
+				str(get_dec_digits(data_dict['time']))
+				data_dict['time'] == ("{:.%sf}" %(str(get_dec_digits(data_dict['time'])))).format(float(data_dict['time'] - 2400000))
 			
 			data_dict['source'] = source
 			
