@@ -17,7 +17,7 @@
         "repo": "input/cne-external",
         "priority": 2
 	},
-	"simbadnova":{
+	"simbadnovae":{
 		"nice_name": "%SIMBAD",
 		"active": true,
 		"update": false,
@@ -47,7 +47,7 @@
     },
     "cleanup": {
         "nice_name": "Cleaning up entries",
-        "active": true,
+        "active": false,
         "update": false,
         "module": "supernovae.tasks.cleanup",
         "function": "do_cleanup",
