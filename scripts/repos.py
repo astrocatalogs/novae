@@ -21,7 +21,6 @@ def repo_file_list(normal=True, bones=True):
             continue
         files += glob(outdir + rep + "/*.json") + \
             glob(outdir + rep + "/*.json.gz")
-    print(files)
     return files
 
 
