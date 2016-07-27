@@ -27,7 +27,7 @@ def do_photometry(catalog):
 				phot_ticket.close()
 			except:
 				True == True
-				#print(filename)
+				print("Error with " + filename)
 				continue
 				#THROW ERROR TO LOG HERE
 		
