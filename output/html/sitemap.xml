@@ -372,6 +372,36 @@
     <loc>https://sne.space/sne/BASW N7</loc>
   </url>
   <url>
+    <loc>https://sne.space/sne/BT Mon</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/BY Cir</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/CI Aql</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/CP Lac</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/CP Pup</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/DD Cir</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/DK Lac</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/DN Gem</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/DO Aql</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/DQ Her</loc>
+  </url>
+  <url>
     <loc>https://sne.space/sne/EM* AS 239</loc>
   </url>
   <url>
@@ -450,148 +480,19 @@
     <loc>https://sne.space/sne/EQ J184938-093345</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/EV* M31 V0237</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0547</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0628</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0641</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0665</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0681</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0694</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0768</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0771</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0773</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0785</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0792</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0848</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0886</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V0935</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1037</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1040</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1045</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1060</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1099</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1115</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1120</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1123</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1130</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* M31 V1197</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N205 V0055</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N4365 V0001</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N4472 V0003</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N4472 V0007</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N4472 V0009</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0002</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0003</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0004</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0005</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0006</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0007</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0008</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0009</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0010</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0011</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0012</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0013</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0014</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0015</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5128 V0016</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/EV* N5457 V0017</loc>
+    <loc>https://sne.space/sne/FH Ser</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/GALEX J030929.7+263804</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/GAPO 69</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/GK Per</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/GQ Mus</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/HD 143454</loc>
@@ -616,6 +517,15 @@
   </url>
   <url>
     <loc>https://sne.space/sne/Hornoch 20</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/HR Del</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/HS Sge</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/IM Nor</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/iPTF13akn</loc>
@@ -724,6 +634,15 @@
   </url>
   <url>
     <loc>https://sne.space/sne/LMCN 1998-12a</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/LV Vul</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/LW Ser</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/LZ Mus</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/M101 1994 1</loc>
@@ -2313,12 +2232,6 @@
     <loc>https://sne.space/sne/nova 1983 in M 31</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/Nova 2006 no 8 in M 31</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/Nova 2006 No 9 in M 31</loc>
-  </url>
-  <url>
     <loc>https://sne.space/sne/NOVA And 1968</loc>
   </url>
   <url>
@@ -3333,7 +3246,7 @@
     <loc>https://sne.space/sne/NOVA Vul 2007</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/Nova</loc>
+    <loc>https://sne.space/sne/NQ Vul</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/NSV 10848</loc>
@@ -3414,9 +3327,6 @@
     <loc>https://sne.space/sne/OGLE-2012-NOVA-3</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/OGLE-2013-NOVA-2</loc>
-  </url>
-  <url>
     <loc>https://sne.space/sne/OGLE-2013-SN-003</loc>
   </url>
   <url>
@@ -3442,6 +3352,9 @@
   </url>
   <url>
     <loc>https://sne.space/sne/OGLE-MBR133.25.01160</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/OS And</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/p. Nova in NGC 185</loc>
@@ -3564,303 +3477,6 @@
     <loc>https://sne.space/sne/PC1-1</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/PNV J00392567+4037451</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00412307+4106174</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00413185+4108320</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00413317+4110124</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00414894+4109173</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00415583+4110504</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00420269+4102545</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00422137+4113004</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00422371+4110142</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00422413+4111549</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00422866+4114126</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00422994+4111210</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423272+4115373</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423445+4116443</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423494+4114563</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423707+4122160</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423804+4108417</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423972+4120117</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00423991+4126573</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424097+4116171</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424239+4117190</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424359+4116378</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424397+4114534</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424534+4119303</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424629+4113517</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424654+4117006</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424720+4116195</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424894+4115163</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00424932+4119437</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425172+4118142</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425469+4110257</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425509+4115560</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425838+4118556</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425909+4116118</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425927+4118146</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00425987+4120379</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00431911+4116082</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00431983+4123071</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00432372+4122256</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00432422+4118192</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00435583+4121265</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00440207+4125442</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J00443928+4153491</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J01325723+3024260</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J01335049+3035559</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J01340288+3035111</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J01340756+3050413</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J06270375+3952504</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09544603+6909322</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09545056+6900364</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09551009+6903254</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09551100+6906128</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09551301+6904206</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09552271+6903162</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09552524+6905322</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09552647+6903073</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09552908+6859279</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09552936+6905474</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553012+6903446</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553112+6906154</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553157+6905211</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553207+6902491</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553246+6903202</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553266+6906072</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553273+6902173</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553278+6902139</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553281+6902028</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553290+6903158</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553291+6905261</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553399+6902455</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553488+6910194</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553515+6904002</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553556+6904271</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553560+6904154</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553792+6902498</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553917+6902390</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553945+6905557</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09553974+6905219</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554050+6904048</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554149+6903528</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554328+6902033</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554415+6902557</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554503+6902369</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09554805+6901248</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09555123+6901482</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09555177+6902549</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09555380+6903383</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09555775+6902126</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09555778+6902041</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09560098+6903513</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09560160+6903126</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09560368+6859586</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09561209+6902134</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J09561879+6906481</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J13364430-2950339</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J13370342-2953398</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J18422792+4837425</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J21095047+1348396</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/PNV J23272715+0855391</loc>
-  </url>
-  <url>
     <loc>https://sne.space/sne/PS1-1000254</loc>
   </url>
   <url>
@@ -3894,7 +3510,16 @@
     <loc>https://sne.space/sne/PTF12gnd</loc>
   </url>
   <url>
+    <loc>https://sne.space/sne/PW Vul</loc>
+  </url>
+  <url>
     <loc>https://sne.space/sne/Q Cyg</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/QU Vul</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/QV Vul</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/Rosino 10</loc>
@@ -4263,6 +3888,12 @@
     <loc>https://sne.space/sne/ROTSE3 J003809.1+403725.9</loc>
   </url>
   <url>
+    <loc>https://sne.space/sne/RR Pic</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/RS Oph</loc>
+  </url>
+  <url>
     <loc>https://sne.space/sne/RX J004404.8+411820</loc>
   </url>
   <url>
@@ -4410,6 +4041,9 @@
     <loc>https://sne.space/sne/ShAl 70</loc>
   </url>
   <url>
+    <loc>https://sne.space/sne/SN1885A</loc>
+  </url>
+  <url>
     <loc>https://sne.space/sne/SN1978K</loc>
   </url>
   <url>
@@ -4458,6 +4092,15 @@
     <loc>https://sne.space/sne/SV* SON 10780</loc>
   </url>
   <url>
+    <loc>https://sne.space/sne/T Aur</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/T CrB</loc>
+  </url>
+  <url>
+    <loc>https://sne.space/sne/T Pyx</loc>
+  </url>
+  <url>
     <loc>https://sne.space/sne/TCP J00415307+4109540</loc>
   </url>
   <url>
@@ -4470,556 +4113,217 @@
     <loc>https://sne.space/sne/TYC 2801-2008-1</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AG Peg</loc>
+    <loc>https://sne.space/sne/U Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AH Men</loc>
+    <loc>https://sne.space/sne/V1039 Cen</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AH Pic</loc>
+    <loc>https://sne.space/sne/V1186 Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AH Psc</loc>
+    <loc>https://sne.space/sne/V1187 Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AP Cru</loc>
+    <loc>https://sne.space/sne/V1188 Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AQ Men</loc>
+    <loc>https://sne.space/sne/V1229 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AT Sgr</loc>
+    <loc>https://sne.space/sne/V1330 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* AY Psc</loc>
+    <loc>https://sne.space/sne/V1370 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BB Dor</loc>
+    <loc>https://sne.space/sne/V1419 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BC Cas</loc>
+    <loc>https://sne.space/sne/V1425 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BG Tri</loc>
+    <loc>https://sne.space/sne/V1493 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BI Lyn</loc>
+    <loc>https://sne.space/sne/V1494 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BO Cet</loc>
+    <loc>https://sne.space/sne/V1500 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BS Sgr</loc>
+    <loc>https://sne.space/sne/V1668 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BT Mon</loc>
+    <loc>https://sne.space/sne/V1819 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BW Scl</loc>
+    <loc>https://sne.space/sne/V1974 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* BZ Cir</loc>
+    <loc>https://sne.space/sne/V2214 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CF Gru</loc>
+    <loc>https://sne.space/sne/V2264 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CH Gru</loc>
+    <loc>https://sne.space/sne/V2274 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CK Cyg</loc>
+    <loc>https://sne.space/sne/V2275 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CM Mic</loc>
+    <loc>https://sne.space/sne/V2295 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CP Cru</loc>
+    <loc>https://sne.space/sne/V2313 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CP Lac</loc>
+    <loc>https://sne.space/sne/V2362 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CP Pup</loc>
+    <loc>https://sne.space/sne/V2467 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CT Boo</loc>
+    <loc>https://sne.space/sne/V2487 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* CT Ser</loc>
+    <loc>https://sne.space/sne/V2491 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DI Lac</loc>
+    <loc>https://sne.space/sne/V2540 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DK Lac</loc>
+    <loc>https://sne.space/sne/V351 Pup</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DM Boo</loc>
+    <loc>https://sne.space/sne/V356 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DN Gem</loc>
+    <loc>https://sne.space/sne/V373 Sct</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DO Aql</loc>
+    <loc>https://sne.space/sne/V382 Vel</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DO Leo</loc>
+    <loc>https://sne.space/sne/V3890 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DQ Her</loc>
+    <loc>https://sne.space/sne/V394 CrA</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DX Oct</loc>
+    <loc>https://sne.space/sne/V4021 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* DY Pup</loc>
+    <loc>https://sne.space/sne/V4157 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* EF Tuc</loc>
+    <loc>https://sne.space/sne/V4160 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* EL Aql</loc>
+    <loc>https://sne.space/sne/V4169 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* ES Dra</loc>
+    <loc>https://sne.space/sne/V4171 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* FH Leo</loc>
+    <loc>https://sne.space/sne/V443 Sct</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* FH Ser</loc>
+    <loc>https://sne.space/sne/V444 Sct</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* FS Sct</loc>
+    <loc>https://sne.space/sne/V4444 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* FV Lyn</loc>
+    <loc>https://sne.space/sne/V445 Pup</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* FY Per</loc>
+    <loc>https://sne.space/sne/V446 Her</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* GI Mon</loc>
+    <loc>https://sne.space/sne/V4633 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* GK Per</loc>
+    <loc>https://sne.space/sne/V4643 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* GM Sgr</loc>
+    <loc>https://sne.space/sne/V4739 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* GR Sgr</loc>
+    <loc>https://sne.space/sne/V4740 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* GS Cet</loc>
+    <loc>https://sne.space/sne/V4742 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HL Aqr</loc>
+    <loc>https://sne.space/sne/V4743 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HP Cet</loc>
+    <loc>https://sne.space/sne/V4745 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HQ And</loc>
+    <loc>https://sne.space/sne/V476 Cyg</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HR Del</loc>
+    <loc>https://sne.space/sne/V5114 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HR Lyr</loc>
+    <loc>https://sne.space/sne/V5115 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HS Pup</loc>
+    <loc>https://sne.space/sne/V5116 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HV And</loc>
+    <loc>https://sne.space/sne/V528 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HV Cet</loc>
+    <loc>https://sne.space/sne/V533 Her</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* HZ Pup</loc>
+    <loc>https://sne.space/sne/V574 Pup</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* IM Eri</loc>
+    <loc>https://sne.space/sne/V603 Aql</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* IN CMa</loc>
+    <loc>https://sne.space/sne/V693 CrA</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* IV Cep</loc>
+    <loc>https://sne.space/sne/V705 Cas</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* IX Vel</loc>
+    <loc>https://sne.space/sne/V723 Cas</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* KO Vel</loc>
+    <loc>https://sne.space/sne/V732 Sgr</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* KQ Peg</loc>
+    <loc>https://sne.space/sne/V745 Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* KR UMa</loc>
+    <loc>https://sne.space/sne/V827 Her</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* LN UMa</loc>
+    <loc>https://sne.space/sne/V838 Her</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* LQ Peg</loc>
+    <loc>https://sne.space/sne/V842 Cen</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* LS Cam</loc>
+    <loc>https://sne.space/sne/V849 Oph</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* LV Vul</loc>
+    <loc>https://sne.space/sne/V868 Cen</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* LZ Mus</loc>
+    <loc>https://sne.space/sne/V888 Cen</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* MS Peg</loc>
+    <loc>https://sne.space/sne/V977 Sco</loc>
   </url>
   <url>
-    <loc>https://sne.space/sne/V* MT Com</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* MV Lyr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* NN Ser</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* NQ Vul</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* OR And</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* OY Ara</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* PP Boo</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* PQ Ser</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* PU Vul</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* PW Vul</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* QU Car</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* QV Vul</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* QY TrA</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* QZ Aur</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* RR Pic</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* RT Ser</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* RW Sex</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* RZ Gru</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* S And</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* T Aur</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* TT Ari</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* TV Col</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* TW Pic</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* UU Pic</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* UZ Tri</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1017 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1033 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1059 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1062 Tau</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1084 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1151 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1162 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1172 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1178 Sco</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1193 Ori</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1212 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1229 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1289 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1294 Tau</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1296 Tau</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1301 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1330 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1370 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1378 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1494 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1500 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1548 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1776 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V1974 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2024 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2069 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2275 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2290 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2467 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V2487 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V348 Pav</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V351 UMa</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V356 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V365 Car</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V368 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V369 Lyr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V378 Peg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V379 Vir</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V380 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V386 Ser</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V3888 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V391 Hya</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V393 Hya</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V395 Hya</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V396 Hya</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V3964 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V4019 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V410 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V425 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V434 Gem</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V4368 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V442 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V445 Pup</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V446 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V450 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V4643 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V476 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V522 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V523 Lyr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V528 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V533 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V592 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V597 Pup</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V603 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V705 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V709 Cep</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V720 Sco</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V721 Sco</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V723 Cas</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V747 Cyg</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V759 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V794 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V794 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V795 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V823 Car</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V825 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V825 Sco</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V827 Her</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V840 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V841 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V842 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V888 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V890 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V891 Cen</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V972 Oph</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V977 Sco</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V990 Sgr</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* V991 Aql</loc>
-  </url>
-  <url>
-    <loc>https://sne.space/sne/V* X Ser</loc>
+    <loc>https://sne.space/sne/V992 Sco</loc>
   </url>
   <url>
     <loc>https://sne.space/sne/VVV NOV-003</loc>
