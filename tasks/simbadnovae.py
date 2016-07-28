@@ -10,6 +10,10 @@ def do_simbad_novae(catalog):
 	simbad_mirrors = ['http://simbad.harvard.edu/simbad/sim-script',
 					'http://simbad.u-strasbg.fr/simbad/sim-script']
 
+	customSimbad = Simbad()
+	customSimbad.ROW_LIMIT = -1
+	customSimbad.TIMEOUT = 120
+
 	for mirror in simbad_mirrors:
 		customSimbad.SIMBAD_URL = mirror
 		try:
@@ -23,10 +27,7 @@ def do_simbad_novae(catalog):
 		catalog.log.warning('SIMBAD unable to load, probably offline.')
 
 	
-	customSimbad = Simbad()
-	customSimbad.ROW_LIMIT = -1
-	customSimbad.TIMEOUT = 120
-
+	
 	for name in pbar(catalog.entries, task_str):
 		try:
 			nova_name = "V* " + get_nova_name(name)
