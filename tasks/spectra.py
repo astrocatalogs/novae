@@ -92,7 +92,7 @@ def do_spectra(catalog):
 					flux_arr.append(flux)
 					wavelength_arr.append(wavelength)
 		
-				data_dict = {'wavelengths': wavelength_arr, 'fluxes': flux_arr, 'source': source, 'time': metadata_raw_dict['DATE'], 'observer': metadata_raw_dict['OBSERVER'], 'telescope': metadata_raw_dict['TELESCOPE'], 'instrument': metadata_raw_dict['INSTRUMENT'], 'u_wavelengths': 'Angstrom', 'u_time': 'MJD', 'u_fluxes': 'erg/s/cm^2'}
+				data_dict = {'wavelengths': wavelength_arr, 'fluxes': flux_arr, 'source': source, 'time': metadata_raw_dict['DATE'], 'observer': metadata_raw_dict['OBSERVER'], 'telescope': metadata_raw_dict['TELESCOPE'], 'instrument': metadata_raw_dict['INSTRUMENT'], 'u_wavelengths': 'Angstrom', 'u_time': 'MJD', 'u_fluxes': 'erg/s/cm^2', 'filename': data_filename}
 
 				if not flux_err_arr is None and len(flux_err_arr) != len(wavelength_arr):
 					data_dict['errors'] = flux_err_arr
