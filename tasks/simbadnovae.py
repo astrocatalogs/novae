@@ -8,19 +8,19 @@ from ..utils import get_nova_name
 def do_simbad_novae(catalog):
 	task_str = catalog.get_current_task_str()	
 	simbad_mirrors = ['http://simbad.harvard.edu/simbad/sim-script',
-                     'http://simbad.u-strasbg.fr/simbad/sim-script']
+					'http://simbad.u-strasbg.fr/simbad/sim-script']
 
 	for mirror in simbad_mirrors:
-        customSimbad.SIMBAD_URL = mirror
-        try:
-            table = customSimbad.query_criteria('maintype=No* | maintype="No?"')
-        except:
-            continue
-        else:
-            break
+		customSimbad.SIMBAD_URL = mirror
+		try:
+			table = customSimbad.query_criteria('maintype=No* | maintype="No?"')
+		except:
+			continue
+		else:
+			break
 
-    if not table:
-        catalog.log.warning('SIMBAD unable to load, probably offline.')
+	if not table:
+		catalog.log.warning('SIMBAD unable to load, probably offline.')
 
 	
 	customSimbad = Simbad()
