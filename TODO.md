@@ -17,11 +17,18 @@ Other multiple CNe datasets:
 Other single CNe datasets:
 * None at this time
 
+Sources of Metadata:
+* Ozdonmez (2016) has collected reddening values from various sources. Do NOT use their derived reddening values. 
+* Pagnotta (2014) has a good deal of metadata.
+* Strope et al. (2010).
+
 Spectra to recover that were donated to SuSpect (bad wavelength solutions, etc):
 * None at this time
 
 Online catalogs:
 * No known missing online catalogs at this time.
+
+
 
 ####Data that likely exists but no known source
 * Any CNe with a typing but no spectrum likely has a spectrum.
