@@ -10,6 +10,8 @@ Single CNe dataset on VizieR:
 * None at this time.
 
 Other multiple CNe datasets:
+* MOA/OGLE data set
+* ESO archive data set
 * Chomiuk radio data
 
 Other single CNe datasets:
